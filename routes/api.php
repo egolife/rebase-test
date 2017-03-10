@@ -19,3 +19,8 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 //master commit 1
 //master commit 2 (after branch)
+//some commit in master
+//commit1 merge branch
+//commit2 merge branch
+//commit3 merge branch
+//commit 4 (after master changes)
