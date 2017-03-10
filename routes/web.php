@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+// changes for first commit
+// changes for second commit
+// changes for third commit
